@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3006&pause=1402&color=089FB1&center=true&vCenter=true&random=true&width=435&lines=Flutter+%7C+NestJs+developer" alt="Typing SVG" /></a>
 
 <p align="center">
-<a href="[https://goole.com](https://www.linkedin.com/in/rechidiahmed/)"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
+<a href="https://www.linkedin.com/in/rechidiahmed"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
 <br>
 
