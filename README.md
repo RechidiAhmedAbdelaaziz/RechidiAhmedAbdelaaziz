@@ -3,6 +3,8 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3006&pause=1402&color=089FB1&center=true&vCenter=true&random=true&width=435&lines=Flutter+%7C+NestJs+developer" alt="Typing SVG" /></a>
 
+<p align="center">
+<a href="[https://goole.com](https://www.linkedin.com/in/rechidiahmed/)"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
 
 <br>
 
@@ -30,13 +32,13 @@ I am a mobile and backend developer with 2 years of experience in building user-
 
 - **Backend Development**:
     
-    [![Mobile Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,mongodb&theme=dark)](https://skillicons.dev)
+    [![Backend Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,mongodb&theme=dark)](https://skillicons.dev)
 
   <br>
 
 - **Softwares and Tools**:
   
-    [![Mobile Skills](https://skillicons.dev/icons?i=github,docker,figma,githubactions,linux,vscode,postman&theme=dark)](https://skillicons.dev)
+    [![Extra Skills](https://skillicons.dev/icons?i=github,docker,figma,githubactions,linux,vscode,postman&theme=dark)](https://skillicons.dev)
   
 
 <br>  
