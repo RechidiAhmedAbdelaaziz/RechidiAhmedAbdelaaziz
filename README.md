@@ -1,11 +1,20 @@
 <h1 align="center"><b>Hi , I'm Rechidi Ahmed Abdelaaziz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3006&pause=1402&color=089FB1&center=true&vCenter=true&random=true&width=435&lines=Flutter+%7C+NestJs+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+Dogra&weight=500&size=24&duration=3000&pause=700&color=67F7E9&center=true&vCenter=true&random=true&width=435&lines=Flutter+%7C+NestJS+developer" alt="Typing SVG" /></a>
+    
+
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rechidiahmed"> <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"></a> 
+    <a href="https://dev.to/rechidiahmed">
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/rechidiahmed">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
 
+</p>
+    
 <br>
 
 
@@ -26,19 +35,19 @@ I am a mobile and backend developer with 2 years of experience in building user-
 
 - **Mobile Development**:
     
-    [![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
+    ![Mobile Skills](https://skillicons.dev/icons?i=flutter,dart&theme=dark)
   
 <br>  
 
 - **Backend Development**:
     
-    [![Backend Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,mongodb&theme=dark)](https://skillicons.dev)
+    ![Backend Skills](https://skillicons.dev/icons?i=js,ts,express,nestjs,mongodb&theme=dark)
 
   <br>
 
 - **Softwares and Tools**:
   
-    [![Extra Skills](https://skillicons.dev/icons?i=github,docker,figma,githubactions,linux,vscode,postman&theme=dark)](https://skillicons.dev)
+    ![Extra Skills](https://skillicons.dev/icons?i=github,docker,figma,githubactions,linux,vscode,postman&theme=dark)
   
 
 <br>  
