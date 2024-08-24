@@ -50,4 +50,10 @@ I am a mobile and backend developer with 2 years of experience in building user-
     ![Extra Skills](https://skillicons.dev/icons?i=github,docker,figma,githubactions,linux,vscode,postman&theme=dark)
   
 
-<br>  
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RechidiAhmedAbdelaaziz&theme=gruvbox-duo" alt="GitHub Streak" /></a>
