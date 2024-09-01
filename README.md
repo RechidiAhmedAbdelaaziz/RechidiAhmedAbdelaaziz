@@ -22,7 +22,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-I am a mobile and backend developer with 2 years of experience in building user-centric applications using Flutter and over 1 year of experience in building RESTful APIs using NestJS and MongoDB. I have a proven ability to design and develop cross-platform mobile apps, focusing on clean architecture and best practices.
+I am a mobile and backend developer skilled in building user-centric applications using Flutter and RESTful APIs with NestJS and MongoDB. I have a proven ability to design and develop cross-platform mobile apps, focusing on clean architecture and best practices.
 
 <br><br>
 
